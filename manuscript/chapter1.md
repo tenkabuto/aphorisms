@@ -1,17 +1,13 @@
 # Lifestyle
-```text
-With glasses, one may have at least two perspectives, not just a blurry one.
-```
+> With glasses, one may have at least two perspectives, not just a blurry one.
 
 ## Thinking
-```text
-To think is not to think well.
-```
+> To think is not[^nec] to think well.
+
+  [^nec]:Not always, or not necessarily.
 
 On a related note:
 
-```text
-To have a thought
-is not
-to know what ought.
-```
+W> To have a thought
+W> is not
+W> to know what ought.
