@@ -1,6 +1,6 @@
 # Chapter 1
 ```
-To think is not to think clearly.
+To think is not to think well.
 ```
 
 On a related note:
