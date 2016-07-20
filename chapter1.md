@@ -8,5 +8,5 @@ On a related note:
 ```
 To have a thought
 is not
-to know what ought
+to know what ought.
 ```
