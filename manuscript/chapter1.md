@@ -9,5 +9,7 @@
 On a related note:
 
 W> To have a thought
+W>
 W> is not
+W>
 W> to know what ought.
