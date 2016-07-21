@@ -1,4 +1,5 @@
 # Lifestyle
+
 ## It's Good to be Sorta Blind without Glasses
 > With glasses, one may have at least two perspectives, not just a blurry one.
 
