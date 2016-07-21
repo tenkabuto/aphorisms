@@ -3,9 +3,7 @@
 > With glasses, one may have at least two perspectives, not just a blurry one.
 
 ## Thoughts to Not-Think
-> To think is not[^nec] to think well.
-
-  [^nec]:Not always, or not necessarily.
+> To think is not to think well.
 
 On a related note:
 
