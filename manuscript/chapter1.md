@@ -16,3 +16,8 @@ W> to know what ought.
 
 ## To Whom the Person in the Mirror Laughs At
 > No person is more deserving of mockery than one who cannot laugh at themselves.
+
+## Mo' Money, Less Money
+> Money that is quickly gained is quickly lost.[^mex-folk]
+
+  [^mex-folk]:Upon posting a [blog about this aphorism](http://brandon.zeroqualms.net/money-quickly-gained-is-quickly-lost/), I learned from my friend Arturo Vergara that, despite how I thought of this aphorism on my own, it is also, word-for-word (aside from being in Spanish?), a Mexican folk saying.
