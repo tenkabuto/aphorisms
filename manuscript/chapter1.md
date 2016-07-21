@@ -14,4 +14,4 @@ W>
 W> to know what ought.
 
 ## To Whom the Person in the Mirror Laughs At
-> No group of people are more deserving of mockery than those who cannot laugh at themselves.
+> No person is more deserving of mockery than one who cannot laugh at themselves.
