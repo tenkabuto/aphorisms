@@ -1,5 +1,3 @@
-{frontmatter}
-
 # Before You Proceed
 Please realize the following:
 
