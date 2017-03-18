@@ -1,5 +1,8 @@
 # Lifestyle
 
+## Regarding Change
+> "Those who do not know history are destined to repeat it," but if we know only history, we will often be caught off-guard.
+
 ## It's Good to be Sorta Blind without Glasses
 > With glasses, one may have at least two perspectives, not just a blurry one.
 
