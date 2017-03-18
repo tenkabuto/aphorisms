@@ -1,4 +1,2 @@
 # Before You Proceed
-Please realize the following:
-
-> Aphorisms aren't necessarily [always] true.
+> Aphorisms are food for thought --- the starting line, not the finish line.
