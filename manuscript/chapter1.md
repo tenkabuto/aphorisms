@@ -1,7 +1,9 @@
 # Lifestyle
+## Playing Games and Winning
+> The winner plays games they want to lose.
 
-## Regarding Change
-> "Those who do not know history are destined to repeat it," but if we know only history, we will often be caught off-guard.
+## Change
+> "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
 ## It's Good to be Sorta Blind without Glasses
 > With glasses, one may have at least two perspectives, not just a blurry one.
