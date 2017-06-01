@@ -1,2 +1,2 @@
 # Before You Proceed
-> Aphorisms are food for thought --- the starting line, not the finish line.
+> Aphorisms are food for thought --- starting lines, not finish lines.
