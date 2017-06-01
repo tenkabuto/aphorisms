@@ -13,6 +13,8 @@
 
 > A frosted window pane makes us curious while a clear one makes us indifferent.
 
+## Planning
+> Make time for the untimely.
 
 ## Thinking
 > To think is not to think well.
