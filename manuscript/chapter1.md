@@ -4,14 +4,22 @@
 
 > Much advice is not taken for need of more explanation.
 
+## Change
+> "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
+
+## Contradicting Ourselves
+> We speak of science but listen for magic.
+
 ## Getting others to do something
 > Send them beside the thing and let gravity do the rest.
 
+## More Money, Less Money
+> Money that is quickly gained is quickly lost.[^mex-folk]
+
+  [^mex-folk]:Upon posting a [blog about this aphorism](http://brandon.zeroqualms.net/money-quickly-gained-is-quickly-lost/), I learned from my friend Arturo Vergara that, despite how I thought of this aphorism on my own, it is also, word-for-word (aside from being in Spanish?), a Mexican folk saying.
+
 ## Playing Games and Winning
 > Winners play games they are willing to lose.
-
-## Change
-> "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
 ## Perception
 > To see things clearer, sometimes you must take off your glasses.
@@ -34,13 +42,5 @@ W> to know what ought.
 
 > Few lose sleep wondering if someone else is wrong.
 
-## Contradicting Ourselves
-> We speak of science but listen for magic.
-
 ## To Whom the Person in the Mirror Laughs At
 > No person is more deserving of mockery than one who cannot laugh at themselves.
-
-## Mo' Money, Less Money
-> Money that is quickly gained is quickly lost.[^mex-folk]
-
-  [^mex-folk]:Upon posting a [blog about this aphorism](http://brandon.zeroqualms.net/money-quickly-gained-is-quickly-lost/), I learned from my friend Arturo Vergara that, despite how I thought of this aphorism on my own, it is also, word-for-word (aside from being in Spanish?), a Mexican folk saying.
