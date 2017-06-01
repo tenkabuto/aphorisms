@@ -1,6 +1,6 @@
 # Lifestyle
 ## Playing Games and Winning
-> The winner plays games they want to lose.
+> Winners play games they are willing to lose.
 
 ## Change
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
