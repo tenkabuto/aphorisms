@@ -29,6 +29,9 @@
 ## Planning
 > Make time for the untimely.
 
+## Saying Something
+> A rich family history is conveyed whenever a person implies something. Say a thing flatly and you're a jerk. Heavily imply it and you're a son of a bitch.
+
 ## Thinking
 > To think is not to think well.
 
