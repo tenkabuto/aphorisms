@@ -2,6 +2,8 @@
 ## Advice
 > Humans give great advice in terrible ways. We speak in one dimension, write in two, but grasp things in three.
 
+> Much advice is not taken for need of more explanation.
+
 ## Getting others to do something
 > Send them beside the thing and let gravity do the rest.
 
@@ -12,7 +14,7 @@
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
 ## Perception
-> Take off your glasses sometimes to see things clearer.
+> To see things clearer, sometimes you must take off your glasses.
 
 > A frosted window pane makes us curious while a clear one makes us indifferent.
 
