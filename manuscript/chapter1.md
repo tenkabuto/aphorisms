@@ -8,7 +8,7 @@
 ## It's Good to be Sorta Blind without Glasses
 > Sometimes to see things clearer you must take off your glasses.
 
-## Thoughts to Not-Think
+## Thinking
 > To think is not to think well.
 
 On a related note:
@@ -18,6 +18,8 @@ W>
 W> is not
 W>
 W> to know what ought.
+
+> Few lose sleep wondering if someone else is wrong.
 
 ## To Whom the Person in the Mirror Laughs At
 > No person is more deserving of mockery than one who cannot laugh at themselves.
