@@ -9,7 +9,10 @@
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
 ## Perception
-> Sometimes to see things clearer you must take off your glasses.
+> Take off your glasses sometimes to see things clearer.
+
+> A frosted window pane makes us curious while a clear one makes us indifferent.
+
 
 ## Thinking
 > To think is not to think well.
