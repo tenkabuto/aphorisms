@@ -29,6 +29,9 @@ W> to know what ought.
 
 > Few lose sleep wondering if someone else is wrong.
 
+## Contradicting Ourselves
+> We speak of science but listen for magic.
+
 ## To Whom the Person in the Mirror Laughs At
 > No person is more deserving of mockery than one who cannot laugh at themselves.
 
