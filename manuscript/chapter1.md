@@ -5,7 +5,7 @@
 ## Change
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
-## It's Good to be Sorta Blind without Glasses
+## Perception
 > Sometimes to see things clearer you must take off your glasses.
 
 ## Thinking
