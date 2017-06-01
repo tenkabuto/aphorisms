@@ -6,7 +6,7 @@
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
 ## It's Good to be Sorta Blind without Glasses
-> With glasses, one may have at least two perspectives, not just a blurry one.
+> Sometimes to see things clearer you must take off your glasses.
 
 ## Thoughts to Not-Think
 > To think is not to think well.
