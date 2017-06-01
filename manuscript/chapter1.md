@@ -1,4 +1,7 @@
 # Lifestyle
+## Advice
+> Humans give great advice in terrible ways. We speak in one dimension, write in two, but grasp things in three.
+
 ## Playing Games and Winning
 > Winners play games they are willing to lose.
 
