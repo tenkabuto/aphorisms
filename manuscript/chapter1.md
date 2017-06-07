@@ -13,6 +13,9 @@
 ## Getting others to do something
 > Send them beside the thing and let gravity do the rest.
 
+## To Learn
+> Ask "stupid" questions.
+
 ## More Money, Less Money
 > Money that is quickly gained is quickly lost.[^mex-folk]
 
