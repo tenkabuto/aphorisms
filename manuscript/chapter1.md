@@ -47,3 +47,6 @@ W> to know what ought.
 
 ## To Whom the Person in the Mirror Laughs At
 > No person is more deserving of mockery than one who cannot laugh at themselves.
+
+## Vulnerability
+> He that can admit of his vulnerabilities is less vulnerable than many.
