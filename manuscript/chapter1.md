@@ -51,6 +51,9 @@
 ## Planning
 > Make time for the untimely.
 
+> Budget an hour and it will require but a minute.
+> Budget a minute and it will require an hour.
+
 ## Reading
 > Read the words, miss the sentence.
 
