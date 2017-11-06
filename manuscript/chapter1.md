@@ -23,6 +23,9 @@
 ## To Learn
 > Ask "stupid" questions.
 
+## Of Man
+> Questions are embarrassing reminders of Man's insufficiency.
+
 ## More Money, Less Money
 > Money that is quickly gained is quickly lost.[^mex-folk]
 
