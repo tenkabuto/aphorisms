@@ -36,7 +36,7 @@
 
   [^mex-folk]:Upon posting a [blog about this aphorism](http://brandon.zeroqualms.net/money-quickly-gained-is-quickly-lost/), I learned from my friend Arturo Vergara that, despite how I thought of this aphorism on my own, it is also, word-for-word (aside from being in Spanish?), a Mexican folk saying.
 
-## Playing Games and Winning
+## Playing Games
 > Some games make losers of all who play them.
 
 > Winners play games they are willing to lose.
