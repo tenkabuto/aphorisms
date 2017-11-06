@@ -10,6 +10,8 @@
 ## Communication
 > A dialogue is more than an exchange of monologues.
 
+> Man does not communicate as well as he thinks he does.
+
 ## Contradicting Ourselves
 > We speak of science but listen for magic.
 
