@@ -44,6 +44,8 @@
 
 > A frosted window pane makes us curious while a clear one makes us indifferent.
 
+> Diffusion endears what cohabitation incoheres.
+
 ## Planning
 > Make time for the untimely.
 
