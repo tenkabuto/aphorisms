@@ -26,6 +26,11 @@
 ## Of Man
 > Questions are embarrassing reminders of Man's insufficiency.
 
+### Self-Reliance
+> Be wary of he who says, "I trust not only in myself, for I trust in my fellow man also," for what has been fixed in their doing this?
+> So what if the matter has been abstracted some:
+>   is not Man still trusting in Man?
+
 ## More Money, Less Money
 > Money that is quickly gained is quickly lost.[^mex-folk]
 
