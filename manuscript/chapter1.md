@@ -7,6 +7,9 @@
 ## Change
 > "Those who do not know history are destined to repeat it," but when we know only history, we are often caught off-guard.
 
+## Communication
+> A dialogue is more than an exchange of monologues.
+
 ## Contradicting Ourselves
 > We speak of science but listen for magic.
 
