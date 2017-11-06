@@ -40,9 +40,11 @@
 > Winners play games they are willing to lose.
 
 ## Perception
-> To see things clearer, sometimes you must take off your glasses.
+> Specifics are believed, generalities distrusted. Smells are mysterious, farts are unmistakable.
 
 > A frosted window pane makes us curious while a clear one makes us indifferent.
+
+> To see things clearer, sometimes you must take off your glasses.
 
 > Diffusion endears what cohabitation incoheres.
 
