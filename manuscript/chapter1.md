@@ -14,6 +14,8 @@
 
 > Man does not communicate as well as he thinks he does.
 
+> Implicitly conveyed messages will be misunderstood.
+
 ## Contradicting Ourselves
 > We speak of science but listen for magic.
 
